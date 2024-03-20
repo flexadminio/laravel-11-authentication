@@ -34,12 +34,12 @@ php artisan serve
 
 Login | Register
 --- | ---
-<img src="https://github.com/flexadminio/flexadmin-laravel-free/blob/master/screenshots/dashboard.jpg" width="400">|<img src="https://github.com/flexadminio/flexadmin-laravel-free/blob/master/screenshots/create-product.png" width="400">
+<img src="https://github.com/flexadminio/laravel-11-authentication/blob/master/screenshots/login.jpg" width="600">|<img src="https://github.com/flexadminio/laravel-11-authentication/blob/master/screenshots/register.jpg" width="600">
 
 
 Dashboard | User Profile
 --- | ---
-<img src="https://github.com/flexadminio/flexadmin-laravel-free/blob/master/screenshots/dashboard.jpg" width="400">|<img src="https://github.com/flexadminio/flexadmin-laravel-free/blob/master/screenshots/create-product.png" width="400">
+<img src="https://github.com/flexadminio/laravel-11-authentication/blob/master/screenshots/dashboard.jpg" width="600">|<img src="https://github.com/flexadminio/laravel-11-authentication/blob/master/screenshots/profile.jpg" width="600">
 
 
 ## FlexAdmin
