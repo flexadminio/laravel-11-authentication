@@ -13,6 +13,11 @@ composer install
 After that, run
 
 ```
+cp .env.example .env
+php artisan key:generate --ansi
+```
+
+```
 npm install
 
 ```
